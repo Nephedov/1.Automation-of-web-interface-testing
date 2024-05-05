@@ -7,7 +7,7 @@
 * Создан <a href="https://github.com/Nephedov/1.Automation-of-web-interface-testing/blob/main/.vscode/launch.json">launch.json</a> с настройками debugger VS Code.
 
 
-## Задание 1. Установка Visual Studio Сode (VS Code) и настройка debugger
+## Описание Задания 1. Установка Visual Studio Сode (VS Code) и настройка debugger
 
 ### Шаг 1. Установка VS Code
 
