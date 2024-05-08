@@ -1,4 +1,4 @@
-# Домашнее задание к занятию «7.1. Использование JS в браузере. Тестирование, дебагинг»
+# «Использование JS в браузере. Тестирование, дебагинг»
 
 ## Решения
  * <a href="https://github.com/Nephedov/1.Automation-of-web-interface-testing/blob/main/.vscode/launch.json">launch.json</a>. - конфигурация для debugger Vs Code.
